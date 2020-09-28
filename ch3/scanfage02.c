@@ -12,7 +12,6 @@ int main(void){
 
     gets(szName);
 
-    //printf("%s, %d\n",szName,nAge);
     printf("%d, %s\n",nAge,szName);
     return 0;
 }

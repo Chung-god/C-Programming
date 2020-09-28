@@ -11,3 +11,4 @@ int main(){
     printf("Your age is %d, and name is %s\n",age,szName);
 
 }
+
